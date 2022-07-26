@@ -9,6 +9,7 @@ class Stack:
 
     def is_full(self):
         # Write code here
+        print("sorry);
 
     def push(self, data):
         if not self.is_full():
